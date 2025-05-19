@@ -1,0 +1,7 @@
+stepdefinitions/Hooks.class
+stepdefinitions/CartSteps.class
+stepdefinitions/RegisterSteps.class
+runners/TestRunner.class
+stepdefinitions/LoginSteps.class
+stepdefinitions/HomePageSteps.class
+stepdefinitions/ProductSteps.class

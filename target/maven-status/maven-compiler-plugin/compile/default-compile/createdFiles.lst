@@ -1,0 +1,7 @@
+pages/CartPage.class
+pages/ProductPage.class
+pages/HomePage.class
+utils/BaseClass.class
+pages/RegisterPage.class
+pages/LoginPage.class
+utils/TestData.class
